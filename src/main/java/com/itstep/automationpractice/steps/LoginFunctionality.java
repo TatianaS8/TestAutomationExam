@@ -76,7 +76,7 @@ public class LoginFunctionality {
         ScreenshotUtils.takeScreenShot(pageName);
         logger.info("{}  is displayed", pageName.toUpperCase());
     }
-
+    @And("{string} is displayed on {string}")
     @Then("{string} is displayed on {string} page")
     public void anErrorMessageIsDisplayedOnAuthenticationPage(String errorMessage, String pageName) throws IllegalAccessException {
         WebElement error = ReflectionUtils.getWebElement(errorMessage);
@@ -85,14 +85,6 @@ public class LoginFunctionality {
         logger.info("{}  is displayed on {} page", errorMessage.toUpperCase(), pageName.toUpperCase());
     }
 
-    @And("{string} is displayed on {string}")
-    public void signInButtonIsDisplayedOnHomePage(String buttonName, String pageName) throws IllegalAccessException {
-        WebElement button = ReflectionUtils.getWebElement(buttonName);
-        MatcherAssert.assertThat(button.isDisplayed(), is(true));
-        ScreenshotUtils.takeScreenshotOfElement(buttonName, button);
-        logger.info("{} button is displayed on the {}", buttonName.toUpperCase(), pageName.toUpperCase());
-
-    }
 
     @And("{string} field is displayed on {string}")
     public void searchFieldIsDisplayedOnHomePage(String fieldName, String pageName) throws IllegalAccessException {

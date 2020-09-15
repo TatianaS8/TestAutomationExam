@@ -1451,3 +1451,22 @@
 17:31:41.433 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
 17:31:41.534 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
 17:31:41.677 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+19:05:48.130 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:06:05.260 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:06:11.068 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+19:06:11.963 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+19:06:12.872 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON  is displayed on HOME PAGE page
+19:06:15.707 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+19:06:16.228 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+19:06:17.425 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+19:06:19.424 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+19:06:19.789 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+19:06:20.199 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+19:06:26.247 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:06:31.145 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+19:06:32.153 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+19:06:33.141 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX  is displayed on HOME PAGE page
+19:06:34.049 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON  is displayed on HOME PAGE page
+19:06:35.059 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+19:06:38.185 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+19:06:38.585 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed

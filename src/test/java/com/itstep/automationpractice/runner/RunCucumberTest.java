@@ -1,3 +1,5 @@
+package com.itstep.automationpractice.runner;
+
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
@@ -6,9 +8,9 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"de.monochromata.cucumber.report.PrettyReports:target/cucumber"},
         stepNotifications = true,
-        tags = "@PasswordValidation",
+        //     tags = "@PasswordValidation",
 
-        features = "src/test/resources/FirstFuture.feature",
+        features = "src/test/resources/",
         glue = {"com.itstep.automationpractice.steps",
                 "com.itstep.automationpractice.hooks"})
 
