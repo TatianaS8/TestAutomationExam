@@ -1,0 +1,1453 @@
+318  [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+18203 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+38706 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+11:55:24.416 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+11:55:39.555 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+11:55:53.574 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+12:13:45.085 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+12:13:57.328 [main] INFO  c.i.a.VerifyLoginField - I am on the My Store tab title
+12:14:00.871 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+12:14:11.389 [main] INFO  c.i.a.VerifyLoginField - I am on the My Store tab title
+12:14:15.158 [main] INFO  c.i.a.VerifyLoginField - Chrome driver set up
+12:14:25.200 [main] INFO  c.i.a.VerifyLoginField - I am on the My Store tab title
+02:09:26.763 [main] INFO  MyStepdefs - User goes to home page
+02:09:26.771 [main] INFO  MyStepdefs - User clicks sign in
+02:09:26.771 [main] INFO  MyStepdefs - authentication page is displayed}
+02:09:26.771 [main] INFO  MyStepdefs - User adds input in email field
+02:09:26.771 [main] INFO  MyStepdefs - User adds input in password field
+02:09:26.771 [main] INFO  MyStepdefs - User clicks sign in
+02:09:26.771 [main] INFO  MyStepdefs - account page page is displayed
+02:12:59.450 [main] INFO  MyStepdefs - User goes to home page
+02:12:59.463 [main] INFO  MyStepdefs - User clicks sign in
+02:12:59.463 [main] INFO  MyStepdefs - authentication page is displayed
+02:12:59.463 [main] INFO  MyStepdefs - User adds input in email field
+02:12:59.463 [main] INFO  MyStepdefs - User adds input in password field
+02:12:59.463 [main] INFO  MyStepdefs - User clicks sign in
+02:12:59.463 [main] INFO  MyStepdefs - account page page is displayed
+02:15:20.048 [main] INFO  MyStepdefs - User goes to home page
+02:15:20.058 [main] INFO  MyStepdefs - User clicks sign in
+02:15:20.059 [main] INFO  MyStepdefs - authentication page is displayed
+02:15:20.060 [main] INFO  MyStepdefs - User adds input in EMAIL field
+02:15:20.060 [main] INFO  MyStepdefs - User adds input in PASSWORD field
+02:15:20.060 [main] INFO  MyStepdefs - User clicks sign in
+02:15:20.060 [main] INFO  MyStepdefs - account page page is displayed
+02:17:11.557 [main] INFO  MyStepdefs - User goes to HOME PAGE
+02:17:11.566 [main] INFO  MyStepdefs - User clicks SIGN IN
+02:17:11.566 [main] INFO  MyStepdefs - AUTHENTICATION page is displayed
+02:17:11.566 [main] INFO  MyStepdefs - User adds INPUT in EMAIL field
+02:17:11.566 [main] INFO  MyStepdefs - User adds INPUT in PASSWORD field
+02:17:11.566 [main] INFO  MyStepdefs - User clicks SIGN IN
+02:17:11.566 [main] INFO  MyStepdefs - ACCOUNT PAGE page is displayed
+02:22:57.752 [main] INFO  MyStepdefs - User goes to HOME PAGE
+02:22:57.768 [main] INFO  MyStepdefs - User clicks SIGN IN
+02:22:57.772 [main] INFO  MyStepdefs - AUTHENTICATION page is displayed
+02:22:57.776 [main] INFO  MyStepdefs - User adds INPUT in EMAIL field
+02:22:57.780 [main] INFO  MyStepdefs - User adds INPUT in PASSWORD field
+02:22:57.785 [main] INFO  MyStepdefs - User clicks SIGN IN
+02:22:57.786 [main] INFO  MyStepdefs - ACCOUNT page is displayed
+14:23:55.967 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:34:50.556 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:42:07.584 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:56:15.049 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:44:39.521 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:44:39.529 [main] INFO  c.i.a.Steps.MyStepdefs - User goes to HOME PAGE
+15:45:21.072 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:45:21.080 [main] INFO  c.i.a.Steps.MyStepdefs - User goes to HOME PAGE
+16:34:22.013 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:34:27.753 [main] INFO  c.i.a.Steps.MyStepdefs - User goes to HOME PAGE
+21:52:55.079 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:53:00.153 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+22:01:11.025 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+22:01:15.528 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+22:01:15.572 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+22:01:16.631 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+22:01:17.289 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+22:01:17.290 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in EMAIL field
+22:01:17.291 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in PASSWORD field
+22:01:18.795 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+22:01:18.827 [main] INFO  c.i.a.steps.MyStepdefs - ACCOUNT page is displayed
+22:43:04.097 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+22:43:08.514 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+22:43:08.551 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+22:43:09.680 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+22:43:10.547 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+22:43:10.547 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in EMAIL field
+22:43:10.548 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in PASSWORD field
+22:43:12.216 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+22:43:12.245 [main] INFO  c.i.a.steps.MyStepdefs - ACCOUNT page is displayed
+23:19:10.252 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:19:15.696 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+23:19:15.746 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:19:17.375 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:19:18.173 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+23:19:18.174 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in EMAIL field
+23:19:18.174 [main] INFO  c.i.a.steps.MyStepdefs - User adds INPUT in PASSWORD field
+23:19:19.964 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:19:20.036 [main] INFO  c.i.a.steps.MyStepdefs - ACCOUNT page is displayed
+01:19:11.570 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:19:16.397 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+01:19:16.442 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:19:18.199 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:19:18.963 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+01:19:18.965 [main] INFO  c.i.a.steps.MyStepdefs - User adds EMAIL INPUT in EMAIL field
+01:19:18.965 [main] INFO  c.i.a.steps.MyStepdefs - User adds PASSWORD INPUT in PASSWORD field
+01:19:20.607 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:19:20.666 [main] INFO  c.i.a.steps.MyStepdefs - ACCOUNT page is displayed
+02:04:59.773 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:05:04.531 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+02:05:04.584 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:05:05.755 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:05:06.568 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+02:05:06.836 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:05:08.495 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:05:08.557 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+02:07:41.171 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:07:49.648 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+02:07:49.708 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:07:52.690 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:07:53.687 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+02:07:53.942 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:07:55.485 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:07:55.531 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+02:10:14.039 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:10:20.031 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+02:10:20.097 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:10:22.619 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:10:23.453 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+02:10:23.669 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:10:26.141 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:10:26.206 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:44:19.348 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+08:44:24.033 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+08:44:24.099 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+08:44:25.408 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:44:26.157 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:44:26.605 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+08:44:28.534 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:44:28.600 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:46:36.165 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+08:46:40.948 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+08:46:41.048 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+08:46:43.023 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:46:43.782 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:46:44.113 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+08:46:46.013 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:46:46.058 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:55:34.015 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+08:55:38.696 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+08:55:38.730 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+08:55:39.982 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:55:40.578 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:55:40.763 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+08:55:42.261 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:55:42.290 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:58:37.774 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+08:58:42.473 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+08:58:42.508 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+08:58:44.910 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:58:45.552 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+08:58:45.734 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+08:58:47.202 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+08:58:47.230 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+09:51:15.105 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+09:51:19.325 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+09:51:19.366 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+09:51:21.293 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+09:51:21.901 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+09:51:22.086 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+09:51:25.354 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+09:51:25.385 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+16:25:19.838 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:25:24.847 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+16:26:53.648 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:26:58.779 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+16:33:49.100 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:33:54.918 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+16:47:03.210 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:47:07.695 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+16:48:11.105 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:48:15.542 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+16:57:36.102 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:57:43.000 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+18:12:48.113 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+18:12:52.795 [main] INFO  c.i.a.steps.MyStepdefs - user is on the HOME PAGE
+23:55:44.494 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:14:06.211 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:14:11.077 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:19:24.223 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:19:29.717 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:29:40.728 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:29:45.393 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:34:30.270 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:34:35.114 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:34:35.194 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:34:36.465 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:34:37.085 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+00:34:37.366 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+00:34:38.786 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:34:38.820 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+00:35:30.238 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:35:35.737 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:35:35.796 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:35:36.951 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:35:37.650 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+00:35:37.948 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+00:35:39.378 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:35:39.405 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:27:38.494 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:27:43.714 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+10:27:43.822 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+10:27:45.872 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:27:46.742 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:27:47.034 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+10:27:49.219 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:27:49.277 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:33:27.240 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:33:31.847 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+10:33:31.942 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+10:33:34.333 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:33:35.229 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:33:35.469 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+10:33:37.247 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:33:37.314 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:53:54.728 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:54:00.123 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+10:54:00.275 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+10:54:03.871 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:54:04.857 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+10:54:05.066 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+10:54:08.996 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+10:54:09.071 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:01:19.370 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:01:25.082 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:01:25.175 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:01:26.756 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:01:27.570 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:01:27.805 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:01:29.960 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:01:30.023 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:23:26.265 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:23:32.514 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:23:32.600 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:23:35.254 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:23:36.067 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:23:36.270 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:23:37.969 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:23:38.043 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:26:49.981 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:26:58.979 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:26:59.105 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:27:00.818 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:27:01.597 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:27:01.819 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:27:04.953 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:27:05.021 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:41:10.069 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:41:14.993 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:41:15.074 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:41:16.207 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:41:17.161 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+11:41:17.367 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:41:19.834 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:41:19.902 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION page is displayed
+19:31:02.813 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:31:11.291 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+19:31:11.382 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+19:31:21.082 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:36:57.067 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:37:04.236 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+19:37:04.347 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+19:37:06.339 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:41:02.268 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:41:06.985 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+19:41:07.055 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+19:41:08.644 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:54:54.571 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:54:59.112 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+19:54:59.181 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+19:55:00.294 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:56:52.669 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+19:56:57.487 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+19:56:57.550 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+19:56:58.578 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:56:58.609 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+19:56:59.231 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+19:56:59.269 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+19:57:00.678 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+19:57:00.684 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:41:49.342 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:41:54.505 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:41:54.604 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:41:58.098 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:41:58.154 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:41:59.028 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:41:59.074 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:42:01.129 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:42:01.143 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:42:50.374 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:42:55.255 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:42:55.427 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:42:56.671 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:42:56.750 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:42:57.440 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:42:57.485 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:42:59.186 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:42:59.204 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:43:05.313 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:43:09.978 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:43:10.024 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:43:11.220 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:43:11.230 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:43:11.908 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:43:11.961 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+23:44:36.120 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:44:40.741 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:44:40.898 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:44:42.192 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:44:42.255 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:44:43.228 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:44:43.272 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:44:45.281 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:44:45.297 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:44:51.406 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:44:57.280 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:44:57.338 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:44:58.521 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:44:58.581 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:44:59.323 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:44:59.366 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+23:53:28.276 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:53:33.106 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:53:33.248 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:53:35.031 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:53:35.082 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:53:35.800 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:53:35.846 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:53:41.992 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:53:46.684 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:53:46.770 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:53:48.143 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:53:48.213 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:53:48.958 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:53:49.003 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+23:55:48.480 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:55:53.401 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:55:53.519 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:55:55.476 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:55:55.495 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:55:56.297 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:55:56.345 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:56:02.474 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:56:08.053 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:56:08.156 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:56:10.349 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:56:10.386 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:56:11.199 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:56:11.246 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+23:58:22.555 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:58:29.073 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:58:29.149 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:58:32.060 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:58:32.099 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:58:33.037 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:58:33.080 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+23:58:33.128 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:58:35.075 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:58:35.144 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:58:36.708 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:58:36.742 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:58:37.062 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+23:58:37.130 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+00:07:11.017 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:07:15.669 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:07:15.743 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:07:17.814 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:07:17.853 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:07:18.761 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:07:18.803 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+00:07:18.848 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:07:20.517 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:07:20.568 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:07:23.246 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:07:23.309 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:07:23.633 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:07:23.715 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+00:12:13.759 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:12:18.692 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:12:18.768 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:12:20.081 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:12:20.111 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:12:20.795 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:12:20.837 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+00:12:20.876 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:12:22.382 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:12:22.441 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:12:23.682 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:12:23.711 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:12:24.042 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:12:24.112 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+00:34:43.320 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:34:48.297 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:34:48.371 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:34:49.663 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:34:49.710 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:34:50.399 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:34:50.442 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+00:34:50.486 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+00:34:52.233 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+00:34:52.323 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+00:34:54.645 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+00:34:54.679 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+00:34:54.993 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+00:34:55.064 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+01:28:44.099 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:28:49.175 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:28:49.314 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:28:50.519 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:28:50.566 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:28:51.404 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+01:28:51.447 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+01:28:51.512 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:28:52.933 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:28:53.012 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:28:54.315 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:28:54.350 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:28:54.683 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+01:28:54.766 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+01:30:24.557 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:30:29.419 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:30:29.547 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:30:31.288 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:30:31.323 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:30:32.009 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+01:30:32.055 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+01:30:32.105 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:30:33.492 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:30:33.554 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:30:35.261 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:30:35.285 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:30:35.553 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in MAIL field
+01:30:35.650 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+01:36:50.284 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:36:54.882 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:36:55.013 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:36:56.526 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:36:56.613 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:36:56.667 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:36:58.308 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:36:58.381 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:37:00.628 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:37:00.636 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:40:06.478 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:40:10.797 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:40:10.886 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:40:12.079 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:40:12.109 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:40:12.158 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:40:13.620 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:40:13.723 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:40:15.276 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:40:15.323 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:50:16.567 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:50:21.372 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:50:21.443 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:50:24.111 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:50:24.136 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:50:24.183 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:50:26.153 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:50:26.213 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:50:28.213 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:50:28.239 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:52:08.009 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:52:12.497 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:52:12.574 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:52:13.609 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:52:13.641 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:52:14.357 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:52:14.468 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+01:52:14.524 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:52:16.573 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:52:17.114 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:52:19.866 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:52:20.028 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:52:20.493 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:52:20.819 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+01:54:56.925 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:55:01.502 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:55:01.593 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:55:02.867 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:02.880 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:55:03.535 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:55:03.641 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+01:55:03.681 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:55:05.239 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:55:05.288 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:55:06.443 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:06.474 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:55:06.749 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:55:06.867 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+01:58:12.600 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:58:17.634 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:58:17.730 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:58:19.071 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:58:19.110 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:58:19.959 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:58:20.047 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+01:58:20.093 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:58:21.761 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:58:21.821 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:58:23.226 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:58:23.256 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:58:23.515 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+01:58:23.594 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+02:03:20.171 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:03:24.680 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:03:24.760 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:03:26.556 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:03:26.592 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:03:27.271 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+02:03:27.370 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:03:27.416 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:03:29.617 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:03:29.686 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:03:30.954 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:03:30.990 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:03:31.254 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+02:03:31.373 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+02:08:08.894 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:08:13.636 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:08:13.732 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:08:15.134 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:08:15.162 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:08:15.949 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+02:08:16.040 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:08:16.076 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:08:17.759 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:08:17.823 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:08:19.357 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:08:19.390 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:08:19.603 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in EMAIL field
+02:08:19.680 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+02:20:42.141 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:20:47.082 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:20:47.184 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:20:48.378 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:20:48.441 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:20:49.257 [main] INFO  c.i.a.steps.MyStepdefs - user adds 'test@getnada.com'in 
+02:20:49.384 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:20:49.437 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:20:50.880 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:20:50.974 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:20:52.165 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:20:52.231 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:20:52.575 [main] INFO  c.i.a.steps.MyStepdefs - user adds 'test@getnada.com'in 
+02:20:52.732 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+02:32:57.005 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:33:03.079 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:33:03.166 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:33:05.300 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:33:05.334 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:33:06.172 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:33:06.297 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:33:06.364 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:33:07.832 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:33:07.894 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:33:09.650 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:33:09.689 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:33:09.914 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:33:10.067 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+02:37:19.370 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:37:24.848 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:37:25.208 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:37:26.988 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:37:27.018 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:37:28.056 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:37:28.274 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:37:29.856 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:37:29.926 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:37:31.443 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:44:00.102 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:44:05.920 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:44:05.995 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:44:07.362 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:44:07.414 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:44:08.160 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:44:08.310 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:44:10.166 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:44:10.249 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:44:12.243 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:46:16.625 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:46:20.889 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:46:21.013 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:46:22.620 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:46:22.640 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:46:23.314 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:46:23.519 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:46:25.101 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:46:25.118 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+02:46:25.171 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:46:26.865 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:51:58.698 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:52:02.753 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:52:02.820 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:52:04.000 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:52:04.046 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:52:04.708 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+02:52:04.801 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+02:52:06.471 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:52:06.479 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+02:52:06.504 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:52:07.870 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+03:01:36.350 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:01:41.014 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+03:01:41.077 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+03:01:42.894 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+03:01:42.928 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+03:01:43.632 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+03:01:43.706 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+03:01:45.199 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+03:01:45.207 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+03:01:45.295 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:01:47.185 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+03:08:51.471 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:08:56.252 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+03:08:56.319 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+03:08:57.637 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+03:08:57.684 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+03:08:58.402 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+03:08:58.483 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+03:08:59.902 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+03:08:59.913 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+03:08:59.991 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:09:01.593 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:00:18.543 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:00:24.573 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:00:24.715 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:00:26.034 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:00:26.089 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:00:27.000 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:00:27.164 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:00:28.869 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:00:28.881 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:00:29.003 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:00:30.626 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:01:56.029 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:02:02.891 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:02:02.982 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:02:04.980 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:02:05.049 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:02:06.088 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:02:06.217 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:02:08.063 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:02:08.072 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:02:08.147 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:02:10.508 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:04:10.368 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:04:16.756 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:04:16.833 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:04:18.048 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:04:18.097 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:04:18.946 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:04:19.041 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:04:20.965 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:04:20.974 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:04:21.029 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:04:23.158 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:07:47.339 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:07:52.539 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:07:52.663 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:07:53.853 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:07:53.903 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:07:54.785 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:07:54.869 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:08:00.053 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:08:00.063 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:08:00.134 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:08:03.366 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:08:37.896 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:08:43.669 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:08:43.772 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:08:45.619 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:08:45.672 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:08:46.747 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:08:46.862 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:08:49.062 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:08:49.072 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:08:49.141 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:08:51.247 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:11:32.163 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:11:39.271 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:11:39.374 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:11:41.291 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:11:41.353 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:11:42.287 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:11:42.407 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:11:44.492 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:11:44.500 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:11:44.552 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:11:47.173 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:15:39.015 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:15:46.379 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:15:46.503 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:15:49.011 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:15:49.073 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:15:50.082 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:15:50.180 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:15:52.101 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:15:52.118 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:15:52.216 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:15:54.575 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:22:29.196 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:22:34.440 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:22:34.518 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:22:35.717 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:22:35.755 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:22:36.608 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:22:36.726 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:22:39.026 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:22:39.044 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:22:39.098 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+11:22:43.454 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+11:22:43.496 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:22:45.169 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:22:45.242 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:22:47.069 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:22:47.110 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:22:47.482 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:22:47.596 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+11:22:49.176 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:33:09.986 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:33:15.129 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:33:15.284 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:33:16.578 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:33:16.616 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:33:17.539 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:33:17.628 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:33:19.416 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:33:19.433 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:33:19.493 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+11:33:21.694 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+11:33:21.742 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:33:23.396 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:33:23.470 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:33:24.718 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:33:24.756 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:33:25.169 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:33:25.288 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+11:33:26.511 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:33:26.524 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+11:36:44.892 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:36:51.336 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:36:51.496 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:36:53.447 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:36:53.510 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:36:54.554 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:36:54.677 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:36:57.021 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:36:57.040 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:36:57.107 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+11:37:00.336 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+11:37:00.381 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:37:02.445 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:37:02.496 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:37:04.597 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:37:04.668 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:37:04.946 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:37:05.051 [main] INFO  c.i.a.steps.MyStepdefs - user adds invalid input in PASSWORD
+11:37:06.599 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:37:06.615 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+11:58:02.292 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:58:07.648 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:58:07.771 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:58:09.832 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:58:09.868 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:58:10.679 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:58:10.767 [main] INFO  c.i.a.steps.MyStepdefs - User adds VALID INPUT in PASSWORD field
+11:58:13.108 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:58:13.116 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+11:58:13.163 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+11:58:16.453 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+11:58:16.497 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:58:18.368 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+11:58:18.436 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+11:58:19.760 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:58:19.792 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+11:58:20.160 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+11:58:20.325 [main] INFO  c.i.a.steps.MyStepdefs - user adds INVALID INPUT in PASSWORD on AUTHENTICATION PAGE
+11:58:21.821 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+11:58:21.841 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+12:01:14.477 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+12:01:21.148 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+12:01:21.238 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+12:01:27.913 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+12:01:27.933 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+12:01:28.884 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+12:01:29.013 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in PASSWORD on AUTHENTICATION PAGE
+12:01:34.691 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+12:01:34.789 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+12:01:39.334 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+12:01:39.415 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+12:01:43.219 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+12:01:43.234 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+12:01:43.538 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+12:01:43.704 [main] INFO  c.i.a.steps.MyStepdefs - user adds INVALID INPUT in PASSWORD on AUTHENTICATION PAGE
+12:01:45.772 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+12:01:45.792 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+14:02:18.950 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:02:24.319 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+14:02:24.335 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+14:02:24.369 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:02:27.744 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+14:02:27.771 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+14:03:36.467 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:03:42.620 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+14:03:42.635 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+14:03:42.692 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+14:03:44.452 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+14:03:44.476 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+14:03:44.516 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+14:03:47.147 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+14:03:47.172 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+14:03:47.204 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+14:03:49.048 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+14:03:49.086 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:12:29.375 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:12:34.818 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:12:34.840 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:12:34.933 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:12:36.102 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:12:36.139 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:12:36.214 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:12:38.627 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:12:38.667 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:12:38.724 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:12:40.600 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:12:40.632 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:16:42.888 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:16:47.726 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:16:47.741 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:16:47.839 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:16:49.141 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:16:49.184 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:16:49.245 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:16:51.026 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:16:51.061 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:16:51.120 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:16:52.830 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:16:52.889 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:21:40.081 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:21:46.400 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:21:46.431 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:21:46.543 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:21:48.174 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:21:48.247 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:21:48.318 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:21:49.941 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:21:49.967 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:21:50.022 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:21:51.953 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:21:51.983 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:35:13.517 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:35:18.827 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:35:18.843 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:35:18.907 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:35:21.254 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:35:21.282 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+20:35:21.351 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+20:35:23.304 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+20:35:23.329 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+20:35:23.372 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+20:35:27.348 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+20:35:27.428 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:17:02.829 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:17:09.242 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:17:09.261 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:17:09.368 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:17:10.531 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:17:10.605 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:17:10.684 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:17:12.582 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:17:12.609 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:17:12.663 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:17:14.349 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:17:14.381 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:23:59.498 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:24:05.246 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:24:05.262 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:24:05.344 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:24:06.520 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:24:06.546 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:24:06.631 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:24:08.819 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:24:08.842 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:24:08.899 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:24:10.151 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:24:10.227 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:27:07.974 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:27:13.217 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:27:13.233 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:27:13.299 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:27:15.181 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:27:15.246 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+21:27:15.380 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+21:27:17.165 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+21:27:17.192 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+21:27:17.227 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+21:27:18.481 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+21:27:18.546 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+22:37:21.141 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+22:37:28.100 [main] INFO  c.i.a.steps.MyStepdefs2 - user goes on e HOME PAGE
+22:37:28.175 [main] INFO  c.i.a.steps.MyStepdefs2 - HOME PAGE  is displayed
+22:37:28.279 [main] INFO  c.i.a.steps.MyStepdefs2 - SIGN IN button is displayed on the HOME PAGE
+22:37:30.099 [main] INFO  c.i.a.steps.MyStepdefs2 - User clicks SIGN IN
+22:37:30.135 [main] INFO  c.i.a.steps.MyStepdefs2 - AUTHENTICATION PAGE  is displayed
+23:18:33.283 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:18:38.177 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:18:38.195 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:18:38.264 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:18:39.346 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:18:39.356 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:18:40.068 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:18:40.192 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:18:41.245 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:18:41.335 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:18:42.636 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:18:42.683 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:18:42.715 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:18:44.086 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:18:44.104 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:18:44.357 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:18:44.480 [main] INFO  c.i.a.steps.MyStepdefs - user adds INVALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:18:45.479 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:18:45.487 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+23:22:39.394 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:22:44.106 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:22:44.123 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:22:44.172 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:22:45.229 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:22:45.259 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:22:45.940 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:22:46.060 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:22:47.111 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:22:47.154 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:22:48.818 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:22:48.850 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:22:48.884 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:22:49.954 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:22:49.986 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:22:50.243 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:22:50.374 [main] INFO  c.i.a.steps.MyStepdefs - user adds INVALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:22:51.382 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:22:51.403 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+23:27:24.629 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:27:29.511 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:27:29.573 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:27:31.115 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:33:41.081 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:33:47.471 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:33:47.493 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:33:47.553 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:33:49.136 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:33:49.380 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:33:49.905 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:33:50.003 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:33:51.672 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:33:51.715 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:33:53.298 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:33:53.335 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:33:53.369 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:33:54.955 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:33:54.983 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:33:55.248 [main] INFO  c.i.a.steps.MyStepdefs - user adds VALID INPUT in EMAIL on AUTHENTICATION PAGE
+23:33:55.353 [main] INFO  c.i.a.steps.MyStepdefs - user adds INVALID INPUT in PASSWORD on AUTHENTICATION PAGE
+23:33:56.732 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:33:56.740 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+23:40:11.957 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:40:16.799 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:40:16.815 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:40:16.866 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:40:17.921 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:40:17.943 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:40:18.620 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL field on AUTHENTICATION PAGE
+23:40:18.737 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in PASSWORD field on AUTHENTICATION PAGE
+23:40:20.062 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:40:20.123 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:40:21.694 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+23:40:21.740 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+23:40:21.772 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+23:40:23.013 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+23:40:23.053 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+23:40:23.345 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL field on AUTHENTICATION PAGE
+01:27:04.006 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:27:09.320 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:27:09.347 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:27:09.511 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:27:10.651 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:27:10.662 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:27:11.375 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL field on AUTHENTICATION PAGE
+01:27:11.511 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in PASSWORD field on AUTHENTICATION PAGE
+01:27:12.618 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:27:12.738 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:27:14.167 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:27:14.226 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:27:14.287 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:27:15.687 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:27:15.728 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:27:16.049 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL field on AUTHENTICATION PAGE
+01:40:41.283 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:40:47.097 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:40:47.118 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:40:47.184 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:40:48.999 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:40:49.027 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:42:59.257 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:43:04.833 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:43:04.853 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:43:04.923 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:43:06.166 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:43:06.187 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:43:06.247 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:43:07.834 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:43:07.858 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:43:07.904 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:43:09.136 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:43:09.160 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:49:21.137 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:49:26.194 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:49:26.208 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:49:26.303 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:49:27.454 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:49:27.480 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:49:29.959 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:49:29.969 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+01:49:30.039 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+01:49:32.280 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+01:49:32.363 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:49:34.133 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:49:34.158 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:49:34.203 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:49:35.494 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:49:35.556 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:55:23.256 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:55:29.619 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:55:29.637 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:55:29.740 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:55:30.789 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:30.822 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:55:33.384 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:33.390 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+01:55:33.453 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+01:55:35.954 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+01:55:36.000 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+01:55:37.967 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+01:55:37.992 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+01:55:38.039 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+01:55:39.313 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:39.364 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+01:55:41.379 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+01:55:41.395 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+02:00:25.542 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:00:30.719 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:00:30.781 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+02:00:30.842 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:00:32.205 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:00:32.242 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:00:33.162 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+02:00:34.860 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:00:34.867 [main] INFO  c.i.a.steps.MyStepdefs - MY ACCOUNT PAGE  is displayed
+02:00:34.915 [main] INFO  c.i.a.steps.MyStepdefs - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+02:00:37.080 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN OUT
+02:00:37.103 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:00:39.231 [main] INFO  c.i.a.steps.MyStepdefs - user goes on e HOME PAGE
+02:00:39.262 [main] INFO  c.i.a.steps.MyStepdefs - HOME PAGE  is displayed
+02:00:39.305 [main] INFO  c.i.a.steps.MyStepdefs - SIGN IN button is displayed on the HOME PAGE
+02:00:40.663 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:00:40.694 [main] INFO  c.i.a.steps.MyStepdefs - AUTHENTICATION PAGE  is displayed
+02:00:41.089 [main] INFO  c.i.a.steps.MyStepdefs - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+02:00:42.215 [main] INFO  c.i.a.steps.MyStepdefs - User clicks SIGN IN
+02:00:42.225 [main] INFO  c.i.a.steps.MyStepdefs - ERROR AUTHENTICATION PAGE  is displayed
+02:00:42.272 [main] INFO  c.i.a.steps.MyStepdefs - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+02:33:10.435 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:33:15.343 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+02:33:15.397 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+02:33:15.494 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN button is displayed on the HOME PAGE
+02:33:16.811 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+02:33:16.823 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+02:33:17.718 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+02:33:19.918 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+02:33:19.929 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+02:33:19.981 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+02:33:22.160 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT
+02:33:22.201 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+02:33:24.442 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+02:33:24.473 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+02:33:24.521 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN button is displayed on the HOME PAGE
+02:33:25.698 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+02:33:25.733 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+02:33:26.126 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+02:33:27.572 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+02:33:27.579 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+02:33:27.645 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+03:15:32.753 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:15:37.967 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+03:15:38.054 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+03:15:38.165 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN button is displayed on the HOME PAGE
+03:15:39.703 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+03:15:39.762 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+03:15:40.720 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+03:15:42.378 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+03:15:42.403 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+03:15:42.472 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT button is displayed on the MY ACCOUNT PAGE
+03:15:45.241 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT
+03:15:45.293 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+03:15:46.668 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+03:15:46.691 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+03:15:46.733 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN button is displayed on the HOME PAGE
+03:15:48.619 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+03:15:48.687 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+03:15:49.063 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+03:15:50.415 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN
+03:15:50.428 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+03:15:50.500 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+04:26:53.786 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+04:26:59.809 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+04:26:59.871 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+04:26:59.932 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+04:27:01.321 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+04:27:01.368 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:29:31.921 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:29:36.745 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:29:36.790 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:29:36.856 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:29:36.934 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:29:38.049 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:29:38.073 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:29:38.106 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:39:42.622 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:39:47.095 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:39:47.148 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:39:47.208 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:39:48.613 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+11:39:48.630 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+11:39:49.406 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+11:39:49.445 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:39:50.702 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:39:50.727 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:39:50.758 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:39:52.017 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+11:39:52.037 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+11:39:52.366 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+11:41:51.217 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:41:56.176 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:41:56.218 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:41:56.292 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:41:57.442 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+11:41:57.461 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+11:41:58.227 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+11:42:03.636 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+11:42:03.647 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+11:42:03.755 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:42:05.441 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:42:05.470 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:42:58.620 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:43:03.924 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:43:03.986 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:43:04.052 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:43:05.443 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+11:43:05.457 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+11:43:06.210 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+11:43:08.150 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+11:43:08.157 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+11:43:08.217 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+11:43:10.653 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+11:43:10.673 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+11:43:12.071 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+11:43:12.100 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+11:43:12.130 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+11:43:14.731 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+11:43:14.761 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+11:43:15.096 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+11:43:16.268 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+11:43:16.404 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+11:43:16.463 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+23:37:26.768 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:42:02.165 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:44:07.989 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:44:13.031 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:44:13.165 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:44:13.322 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:44:14.711 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:44:14.733 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:44:15.716 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:44:17.909 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+23:44:17.919 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+23:44:17.996 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+23:44:20.749 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+23:44:20.808 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:44:23.086 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:44:23.140 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:44:23.207 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:44:25.234 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:44:25.343 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:44:25.668 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:44:27.651 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+23:44:27.666 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+23:44:27.732 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+23:46:34.776 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:46:39.876 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:46:39.940 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:46:40.054 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+23:46:40.115 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+23:51:08.532 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:51:13.346 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:51:13.466 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:51:13.633 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+23:51:13.708 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+23:53:04.285 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:53:09.326 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:53:09.436 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:53:09.527 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+23:53:09.641 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+23:53:09.756 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+23:53:10.878 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+23:55:17.595 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:55:21.862 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+23:55:21.907 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:55:21.970 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+23:55:22.010 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+23:55:22.192 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+23:55:22.294 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+23:55:24.030 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+12:11:03.157 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+12:11:08.772 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+12:11:08.884 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+12:11:09.031 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+12:11:10.637 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+12:11:10.678 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+12:11:11.649 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+12:11:13.994 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+12:11:14.010 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+12:11:14.109 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+12:11:16.536 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+12:11:16.580 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+12:11:18.281 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+12:11:18.330 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+12:11:18.389 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+12:11:20.694 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+12:11:20.762 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+12:11:21.270 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+12:11:22.775 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+12:11:22.789 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+12:11:22.849 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+12:13:14.663 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+12:13:19.281 [main] INFO  c.i.a.steps.LoginFunctionality - user goes on e HOME PAGE
+12:13:19.366 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+12:13:19.509 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+12:13:19.574 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+12:13:19.701 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+12:13:20.763 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+12:13:20.864 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+16:02:44.473 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:02:49.578 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+16:02:49.617 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+16:02:49.684 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+16:02:49.713 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+16:02:49.807 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+16:02:51.171 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+16:02:51.250 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+17:21:08.484 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:21:14.409 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:21:15.222 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:21:15.966 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+17:21:16.672 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+17:21:17.480 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+17:21:20.372 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+17:21:20.767 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+22:35:16.676 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+22:35:22.429 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+22:35:23.339 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+22:39:50.582 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+22:39:55.386 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+22:39:56.304 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+22:39:57.234 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+22:39:58.097 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+22:39:59.343 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+22:40:02.153 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+22:40:02.651 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+23:12:43.616 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:12:48.362 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+23:12:49.518 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:12:50.666 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:12:53.076 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:12:53.635 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:12:53.862 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:12:57.349 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+23:12:57.820 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+23:12:58.353 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+23:13:02.695 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+23:13:08.820 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:13:17.777 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+23:13:18.593 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:13:19.591 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:13:21.818 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:13:22.393 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:13:22.627 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:13:23.788 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+23:13:24.233 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+23:13:24.288 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+23:26:36.917 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:26:42.133 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+23:26:43.302 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:26:44.425 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:26:47.784 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:26:48.467 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:26:49.689 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:26:52.968 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+23:26:53.506 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+23:26:54.033 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+23:26:57.558 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+23:27:03.643 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+23:27:08.434 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+23:27:09.386 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+23:27:10.457 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+23:27:13.570 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+23:27:14.136 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+23:27:15.342 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+23:27:17.642 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+23:27:18.070 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+23:27:18.581 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+09:55:36.047 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+09:55:43.326 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+09:55:44.136 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+09:55:44.941 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+09:55:52.434 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+09:55:52.983 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+09:55:54.027 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+09:56:01.147 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+09:56:01.520 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+09:56:01.926 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+09:56:05.025 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+09:56:10.968 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+09:56:17.642 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+09:56:18.415 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+09:56:19.202 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+09:56:27.514 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+09:56:28.040 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+09:56:29.088 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+09:56:30.999 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+09:56:31.379 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+09:56:31.788 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+10:16:18.836 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:16:23.867 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+10:16:24.736 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+10:16:25.562 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+10:16:26.357 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+10:16:32.628 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:16:37.022 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+10:16:37.807 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+10:16:38.573 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+10:16:39.334 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+10:21:03.986 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:21:09.188 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+10:21:10.025 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+10:21:10.890 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+10:21:11.750 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+10:21:17.650 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+10:21:22.978 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+10:21:23.929 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+10:21:24.885 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+10:21:25.769 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+13:44:40.900 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+13:44:47.806 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+13:44:49.021 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+13:44:50.191 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+13:44:51.395 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+13:44:57.603 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+13:45:02.621 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+13:45:03.447 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+13:45:04.268 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+13:45:05.151 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+13:55:03.204 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+13:55:08.142 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+13:55:09.146 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+13:55:10.086 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+13:55:10.924 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+13:55:17.090 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+13:55:48.978 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+13:55:54.775 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+13:55:55.828 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+13:55:57.090 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+13:55:58.589 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+15:23:55.099 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:32:26.632 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:32:48.513 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:38:57.526 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:39:34.698 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:49:16.175 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+15:50:17.385 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:26:35.551 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:26:40.605 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+16:26:41.419 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+16:26:42.254 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+16:26:43.037 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+16:26:49.016 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+16:26:54.965 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+16:26:55.718 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+16:26:56.491 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+16:26:57.255 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+16:29:44.214 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:07:52.180 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:07:57.820 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:07:58.694 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:07:59.506 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+17:08:00.277 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+17:24:36.820 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:24:41.843 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:24:42.757 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:24:43.640 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BOX button is displayed on the HOME PAGE
+17:24:44.396 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH BUTTON button is displayed on the HOME PAGE
+17:24:45.322 [main] INFO  c.i.a.steps.LoginFunctionality - user adds PRODUCT in SEARCH BOX field on HOME PAGE
+17:24:47.791 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SEARCH BUTTON on HOME PAGE
+17:24:48.227 [main] INFO  c.i.a.steps.LoginFunctionality - SEARCH PRODUCT PAGE  is displayed
+17:29:07.698 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:29:14.082 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:29:14.878 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:29:15.693 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+17:29:18.285 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+17:29:18.796 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+17:29:19.820 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+17:29:22.207 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+17:29:22.674 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+17:29:23.103 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+17:29:25.904 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+17:29:31.886 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:29:37.050 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:29:37.764 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:29:38.531 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+17:29:42.196 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+17:29:42.689 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+17:29:43.664 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+17:29:45.256 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+17:29:45.621 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+17:29:46.030 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page
+17:31:11.823 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:31:18.519 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:31:18.981 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:31:19.491 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+17:31:21.719 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+17:31:21.854 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+17:31:22.253 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+17:31:23.843 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on AUTHENTICATION PAGE
+17:31:23.948 [main] INFO  c.i.a.steps.LoginFunctionality - MY ACCOUNT PAGE  is displayed
+17:31:24.091 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN OUT BUTTON button is displayed on the MY ACCOUNT PAGE
+17:31:26.160 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN OUT BUTTON on MY ACCOUNT PAGE
+17:31:30.919 [main] INFO  c.i.automationpractice.hooks.UiHook - Window is maximized
+17:31:36.424 [main] INFO  c.i.a.steps.LoginFunctionality - user navigate to HOME PAGE
+17:31:36.780 [main] INFO  c.i.a.steps.LoginFunctionality - HOME PAGE  is displayed
+17:31:37.194 [main] INFO  c.i.a.steps.LoginFunctionality - SIGN IN BUTTON button is displayed on the HOME PAGE
+17:31:39.773 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON on HOME PAGE
+17:31:39.876 [main] INFO  c.i.a.steps.LoginFunctionality - AUTHENTICATION PAGE  is displayed
+17:31:40.245 [main] INFO  c.i.a.steps.LoginFunctionality - user adds valid input in EMAIL and PASSWORD field on AUTHENTICATION PAGE
+17:31:41.433 [main] INFO  c.i.a.steps.LoginFunctionality - User clicks SIGN IN BUTTON  on AUTHENTICATION PAGE
+17:31:41.534 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR AUTHENTICATION PAGE  is displayed
+17:31:41.677 [main] INFO  c.i.a.steps.LoginFunctionality - ERROR MESSAGE  is displayed on ERROR AUTHENTICATION PAGE page

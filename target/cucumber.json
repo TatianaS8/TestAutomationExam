@@ -1,0 +1,221 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "home page is displayed",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5215000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user goes on  \u0027Home Page\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Home Page\u0027",
+                  "offset": 14
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.userGoesOnHomePage(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 103000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "\u0027Sign In\u0027 button is displayed on the \u0027Home Page\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Sign In\u0027",
+                  "offset": 0
+                },
+                {
+                  "val": "\u0027Home Page\u0027",
+                  "offset": 37
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.signInButtonIsDisplayedOnTheHomePage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2049000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks \u0027Sign In\u0027 button on \u0027Home Page\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Sign In\u0027",
+                  "offset": 12
+                },
+                {
+                  "val": "\u0027Home Page\u0027",
+                  "offset": 32
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.userClicksSignInButtonOnHomePage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 869000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "\u0027Authentication\u0027 page is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Authentication\u0027",
+                  "offset": 0
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.authenticationPageIsDisplayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 192000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user adds valid input in \u0027Mail\u0027 field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Mail\u0027",
+                  "offset": 25
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.userAddsValidInputInMailField(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-10T07:27:31.340Z",
+        "before": [
+          {
+            "result": {
+              "duration": 7068000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.itstep.automationpractice.hooks.UiHook.setUpWebDriver()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "login with valid data",
+        "description": "",
+        "id": "login-validation;login-with-valid-data",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user adds \u0027Valid Input\u0027 in \u0027Password\u0027 field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Valid Input\u0027",
+                  "offset": 10
+                },
+                {
+                  "val": "\u0027Password\u0027",
+                  "offset": 27
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.userAddsInputInPasswordField(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2185000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user clicks \u0027Sign In\u0027 button on \u0027Home Page\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Sign In\u0027",
+                  "offset": 12
+                },
+                {
+                  "val": "\u0027Home Page\u0027",
+                  "offset": 32
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.userClicksSignInButtonOnHomePage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "\u0027Authentication\u0027 page is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Authentication\u0027",
+                  "offset": 0
+                }
+              ],
+              "location": "com.itstep.automationpractice.steps.MyStepdefs.authenticationPageIsDisplayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PasswordValidation"
+          },
+          {
+            "name": "@ValidPassword"
+          }
+        ]
+      }
+    ],
+    "name": "login validation",
+    "description": "",
+    "id": "login-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/FirstFuture.feature",
+    "tags": [
+      {
+        "name": "@PasswordValidation",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
